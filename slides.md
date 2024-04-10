@@ -20,6 +20,7 @@ drawings:
   persist: false
 # slide transition: https://sli.dev/guide/animations#slide-transitions
 transition: slide-left
+favicon: /favicon.jpg
 # enable MDC Syntax: https://sli.dev/guide/syntax#mdc-syntax
 mdc: true
 fonts:
